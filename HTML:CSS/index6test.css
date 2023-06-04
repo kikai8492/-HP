@@ -1,0 +1,16 @@
+h1 {
+  border: 5px solid #000000;
+  text-align: center;
+  background-color: #87CEEB;
+  padding: 20px;
+  margin: 40px;
+}
+
+p {
+  border: 5px solid black;
+  font-size: 30px;
+  text-align: center;
+  background-color: #F4A460;
+  padding: 30px;
+  margin: 10px;
+}
